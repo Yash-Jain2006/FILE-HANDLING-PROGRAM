@@ -28,7 +28,7 @@ Objective of the Program:
 Tools and Technologies Used:
 1. Programming Language: C
 2. Standard Libraries Used:
-   -> <stdio.h>: Provides file handling functions like fopen(), fprintf(), fscanf(), fclose(),         printf(), and scanf().
+   -> <stdio.h>: Provides file handling functions like fopen(), fprintf(), fscanf(), fclose(), printf(), and scanf().
    -> <stdlib.h>: Included for additional utility functions and safe exit handling.
 4. Compiler: GCC (GNU Compiler Collection)
 5.  Editor Platform: Code Blocks
