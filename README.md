@@ -44,6 +44,8 @@ Tools and Technologies Used:
 8. Print the data in the file using "fprintf" function.
 9. Close the file using 'fclose()' function'
 
+Thank you!
+
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/3bcba323-3537-42ad-a298-ede4a979584b)
 ![Image](https://github.com/user-attachments/assets/6c6a6ea7-59b5-4440-b817-4bf2085245bc)
